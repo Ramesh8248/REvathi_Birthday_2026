@@ -27,4 +27,4 @@ jobs:
           path: .
 
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4   # ✅ keep this
+        uses: actions/deploy-pages@v4   # ✅ THIS IS CORRECT
